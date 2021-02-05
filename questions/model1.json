@@ -1,0 +1,10 @@
+{
+    "info": "This is a sentence containing the information of this question",
+    "statement": "this is the question",
+    "answer_position": "1",
+    "props": {
+        "0": "this is wrong proposition 1",
+        "1": "this is the correct answer",
+        "2": "this is wrong proposition 2"
+    }
+}
